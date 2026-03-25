@@ -1,0 +1,17 @@
+{
+  "name": "project-context",
+  "description": "Smart project context management for Claude Code. Auto-detects project type, generates role-aware CLAUDE.md with tech stack analysis, supports monorepo/multi-package projects, and keeps documentation in sync through intelligent self-checking.",
+  "version": "1.0.0",
+  "author": {
+    "name": "TimKeeper"
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "project-context",
+    "claude-md",
+    "monorepo",
+    "auto-documentation",
+    "developer-tools"
+  ]
+}

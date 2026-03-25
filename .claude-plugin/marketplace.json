@@ -1,0 +1,13 @@
+{
+  "name": "project-context-plugin",
+  "plugins": [
+    {
+      "name": "project-context",
+      "source": "./"
+    }
+  ],
+  "owner": {
+    "name": "TimKeeper",
+    "url": "https://github.com/TimKeeper"
+  }
+}
